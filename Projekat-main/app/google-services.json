@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "203547178821",
+    "firebase_url": "https://projekatrmas-7c8ff-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projekatrmas-7c8ff",
+    "storage_bucket": "projekatrmas-7c8ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203547178821:android:8085c98e90d8117ee2f02c",
+        "android_client_info": {
+          "package_name": "com.example.rmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJZ3N-MBvppWiwi36vvdRCdZUxPn-uFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
